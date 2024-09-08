@@ -1,4 +1,8 @@
-## Hi there 👋
+##  :]
+
+-pq o rato foi surfar na cozinha?
+
+-pq lá tem microondas
 
 <!--
 **ratosurfista/ratosurfista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
