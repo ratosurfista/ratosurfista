@@ -1,6 +1,6 @@
 ##  :]
 
--pq o rato foi surfar na cozinha?
+-pq o ratinho foi surfar na cozinha?
 
 -pq lá tem microondas
 
